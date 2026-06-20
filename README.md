@@ -61,5 +61,3 @@ webapp/
 ## Author
 Avinash Devar
 
-## Author
-Avinash Devar
