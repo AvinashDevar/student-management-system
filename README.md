@@ -33,7 +33,7 @@ java/
 resources/
 └── persistence.xml/
 
-java/
+webapp/
 └── WEB-INF/
 ```
 
