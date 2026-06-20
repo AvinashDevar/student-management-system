@@ -24,12 +24,17 @@ A web-based Student Management System developed using JSP, Servlets, JDBC, and M
 ## Project Structure
 
 ```text
-src/
+java/
 ├── controller/
 ├── dao/
 ├── dto/
-├── service/
-└── webapp/
+└── jpUtil/
+
+resources/
+└── persistence.xml/
+
+java/
+└── WEB-INF/
 ```
 
 ## Setup Instructions
